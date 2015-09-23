@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/titlebar_ic_back_normal" android:state_pressed="false"/>
+    <item android:drawable="@drawable/titlebar_ic_back_pressed" android:state_pressed="true"/>
+    <item android:drawable="@drawable/titlebar_ic_back_normal"/>
+
+</selector><!-- From: file:/D:/eclipse/haoqidai/android/trunk/maven/fingerDemo/src/main/res/drawable/titlebar_ic_back.xml --><!-- From: file:/D:/eclipse/haoqidai/android/trunk/maven/fingerDemo/build/intermediates/bundles/debug/res/drawable/titlebar_ic_back.xml -->
